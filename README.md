@@ -9,7 +9,7 @@
              'Many of life's failures are people who did not realize how close they were to success when they gave up'
                                
 <h4> Why do I code? </h4>
-- Code, to me, exemplifies self-expression. We shouldn't be afraid to fail. To challenge one's logic, creativity and patience all in one-sitting not only leads to better code, but easily helps grow confidence. I learned to live by these quotes:
+- Code, to me, exemplifies self-expression. We shouldn't be afraid to fail. To challenge one's logic, creativity and patience all in one-sitting not only expands intelligence, but also substantially grows confidence.
 
 <h4 align="left">Let's discuss: </h4>
 <p align="left">
