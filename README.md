@@ -7,6 +7,7 @@
                             'Patience when you have nothing, humble when you have everything'
                      'Better to jump and make a mistake than to sit there too frightened to make a move'
              'Many of life's failures are people who did not realize how close they were to success when they gave up'
+          'If you don't know your value, somebody will tell you your value and it will be less than you're actually worth'
                                
 <h4> Why do I code? </h4>
 - Code, to me, exemplifies self-expression. We shouldn't be afraid to fail. To challenge one's logic, creativity and patience all in one-sitting not only expands intelligence, but also substantially grows confidence.
